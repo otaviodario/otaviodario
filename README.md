@@ -8,9 +8,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Software+Engineer+%26+Indie+Creator;Fundador+da+Dario+Dev+Labs;Android+Nativo+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Typing SVG" />
   </a>
 
-  <!-- GIF PIXEL ART RPG (BONFIRE / REST AREA) -->
+  <!-- GIF PIXEL ART RPG EM FORMATO BANNER LARGO -->
   <p align="center">
-    <img src="https://media.giphy.com/media/2qzHVSVfPcBlC/giphy.gif" width="380" alt="Pixel Art RPG Bonfire" />
+    <img src="https://media.giphy.com/media/2qzHVSVfPcBlC/giphy.gif" width="650" height="220" alt="Pixel Art RPG Bonfire" />
   </p>
 
   <p>
