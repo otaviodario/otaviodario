@@ -83,14 +83,15 @@
 
 ### 📊 Métricas &amp; Atividade no GitHub
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/otaviodario">
-    <img src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/otaviodario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
   </a>
-</div>
+</p>
 
 <br>
 
