@@ -92,9 +92,3 @@
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <sub>Construído por <strong>Otávio Dario</strong> • Fundador da <strong>Dario Dev Labs</strong></sub>
-</div>
