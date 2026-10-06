@@ -8,10 +8,26 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=580&lines=Software+Engineer+%26+Indie+Creator;Fundador+da+Dario+Dev+Labs;Android+Nativo+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Typing SVG" />
   </a>
 
-  <!-- GIF LOCAL (Altere o caminho/nome conforme onde salvou no repo) -->
+  <!-- ==================== BANNER GIF DO LOBO ==================== -->
+  
+  <!-- [OPÇÃO 1 - ATIVA]: Lobo recebendo carinho -->
   <p align="center">
-    <img src="./wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Wolf GIF" />
+    <img src="./assets/wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Lobo Pet" />
   </p>
+
+  <!-- [OPÇÃO 2 - ALTERNATIVA]: Lobo correndo (Banner largo)
+  <p align="center">
+    <img src="./assets/wolf-run.gif" width="560" style="border-radius: 12px;" alt="Lobo Correndo" />
+  </p>
+  -->
+
+  <!-- [OPÇÃO 3 - ALTERNATIVA]: Lobo deitado / lambida
+  <p align="center">
+    <img src="./assets/wolf-kiss.gif" width="380" style="border-radius: 12px;" alt="Lobo Kiss" />
+  </p>
+  -->
+
+  <!-- ============================================================ -->
 
   <p>
     <a href="https://dariodevlabs.pages.dev/">
