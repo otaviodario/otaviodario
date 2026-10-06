@@ -10,20 +10,26 @@
 
   <!-- ==================== BANNER GIF DO LOBO ==================== -->
   
-  <!-- [OPÇÃO 1 - ATIVA]: Lobo recebendo carinho -->
+  <!-- [OPÇÃO 1 - ATIVA]: Lobo carinho -->
   <p align="center">
-    <img src="./assets/wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Lobo Pet" />
+    <a href="#">
+      <img src="./assets/wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Lobo Pet" />
+    </a>
   </p>
 
   <!-- [OPÇÃO 2 - ALTERNATIVA]: Lobo correndo (Banner largo)
   <p align="center">
-    <img src="./assets/wolf-run.gif" width="560" style="border-radius: 12px;" alt="Lobo Correndo" />
+    <a href="#">
+      <img src="./assets/wolf-run.gif" width="560" style="border-radius: 12px;" alt="Lobo Correndo" />
+    </a>
   </p>
   -->
 
   <!-- [OPÇÃO 3 - ALTERNATIVA]: Lobo deitado / lambida
   <p align="center">
-    <img src="./assets/wolf-kiss.gif" width="380" style="border-radius: 12px;" alt="Lobo Kiss" />
+    <a href="#">
+      <img src="./assets/wolf-kiss.gif" width="380" style="border-radius: 12px;" alt="Lobo Kiss" />
+    </a>
   </p>
   -->
 
@@ -69,7 +75,7 @@
 ### 🛠️ Stack Tecnológica &amp; Arquitetura
 
 <div align="center">
-  <a href="javascript:void(0);">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cloudflare,workers,js,ts,html,css,tailwind,git,github&theme=dark" alt="Tech Stack" />
   </a>
 </div>
@@ -79,18 +85,18 @@
 > 📱 **Mobile:** Android Nativo (Kotlin, App Widgets, WebViewAssetLoader, Local-First Engine)  
 > ☁️ **Cloud &amp; Edge:** Cloudflare Workers, KV Storage em Tempo Real, R2 Storage, Cloudflare Pages  
 > ⚡ **Automações:** JavaScript/TypeScript, Google Apps Script, Scraping &amp; Scripts Web  
-> 🔒 **Segurança &amp; Persistência:** SHA-256 Web Crypto API, IndexedDB, LocalStorage Seguro
+> 🔒 **Segurança &amp; Persistência:** SHA-256 Web Crypto API, IndexedDB, LocalStorage Seguro  
 
 ---
 
 ### 📊 Métricas &amp; Atividade no GitHub
 
 <p align="center">
-  <a href="javascript:void(0);">
+  <a href="#">
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
-  <a href="javascript:void(0);">
+  <a href="#">
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
   </a>
 </p>
