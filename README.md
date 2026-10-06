@@ -1,28 +1,17 @@
 <div align="center">
 
-  <!-- BANNER ANIMADO DE CABEÇALHO -->
+  <!-- ANIMATED HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Otávio%20Dario&fontSize=42&fontColor=38bdf8&animation=twinkling" width="100%"/>
 
-  <!-- SELETOR DE IDIOMA / LANGUAGE SWITCHER -->
-  <p align="center">
-    <a href="#-about-me--overview">
-      <img src="https://img.shields.io/badge/English-US%20%F0%9F%87%BA%F0%9F%87%B8-0284c7?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English US" />
-    </a>
-    &nbsp;
-    <a href="#-versão-em-português">
-      <img src="https://img.shields.io/badge/Portugu%C3%AAs-BR%20%F0%9F%87%A7%F0%9F%87%B7-16a34a?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Português BR" />
-    </a>
-  </p>
-
-  <!-- DIGITAÇÃO AUTOMÁTICA EM TERMINAL -->
+  <!-- TERMINAL AUTO-TYPING -->
   <a href="https://dariodevlabs.pages.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Indie+Creator;Founder+at+Dario+Dev+Labs;Android+Native+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Typing SVG" />
   </a>
 
-  <!-- BANNER GIF DO LOBO -->
+  <!-- WOLF GIF BANNER -->
   <p align="center">
     <a href="#">
-      <img src="./assets/wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Lobo Pet" />
+      <img src="./assets/wolf-pet.gif" width="380" style="border-radius: 12px;" alt="Wolf Pet" />
     </a>
   </p>
 
@@ -39,9 +28,9 @@
 
 ---
 
-## 🇺🇸 About Me & Overview
+## ⚡ About Me & Architecture
 
-Software Engineer & Creator specialized in **High-Performance Android Native (Kotlin)**, **Edge Computing (Cloudflare Workers, KV, Pages)**, and automation solutions. Founder of **Dario Dev Labs**.
+Software Engineer & Indie Creator specialized in **High-Performance Native Android (Kotlin)**, **Edge Computing (Cloudflare Workers, KV, Pages)**, and automation systems. Founder of **Dario Dev Labs**.
 
 ---
 
@@ -57,12 +46,12 @@ Software Engineer & Creator specialized in **High-Performance Android Native (Ko
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/MarketCart-Cloudflare%20KV-emerald?style=for-the-badge&logo=cloudflare&logoColor=white" /><br><br>
       <strong>Real-Time Collaborative Shopping</strong><br>
-      Multi-user sync powered by <strong>Cloudflare Workers + KV</strong>: allows multiple users to check and share items from the same shopping list simultaneously.
+      Multi-user sync powered by <strong>Cloudflare Workers + KV</strong>: allows multiple users to cross off and add items from the same shopping list simultaneously.
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/WikiDay-Widgets%20%26%20Dates-purple?style=for-the-badge&logo=android&logoColor=white" /><br><br>
       <strong>Celebrations &amp; Quotes</strong><br>
-      Daily global celebrations and categorized quotes. Engineered as an <strong>interactive Home Screen Widget</strong> with full color customization.
+      Daily global celebrations and categorized quotes. Engineered as an <strong>interactive Home Screen Widget</strong> with dynamic color theming.
     </td>
   </tr>
 </table>
@@ -79,31 +68,14 @@ Software Engineer & Creator specialized in **High-Performance Android Native (Ko
 
 <br>
 
-> 📱 **Mobile:** Native Android (Kotlin, App Widgets, WebViewAssetLoader, Local-First Engine)  
+> 📱 **Mobile:** Native Android (Kotlin, App Widgets, WebViewAssetLoader, Local-First Architecture)  
 > ☁️ **Cloud &amp; Edge:** Cloudflare Workers, Real-time KV Storage, R2 Storage, Cloudflare Pages  
 > ⚡ **Automations:** JavaScript/TypeScript, Tampermonkey Userscripts, Web Scraping  
 > 🔒 **Security &amp; Persistence:** SHA-256 Web Crypto API, IndexedDB, Secure LocalStorage  
 
 ---
 
-## 🇧🇷 Versão em Português
-
-<details>
-<summary><b>Clique aqui para ler a apresentação em Português (BR) 🇧🇷</b></summary>
-<br>
-
-Software Engineer & Criador focado em **Android Nativo de Alta Performance (Kotlin)**, **Edge Computing (Cloudflare Workers, KV, Pages)** e automações. Fundador da **Dario Dev Labs**.
-
-### 📱 Destaques do Ecossistema:
-- **Daikai:** Aplicativo fitness com arquitetura 100% *Local-First*, cofre seguro de dados no dispositivo e cálculos de carga sem depender de sinal de internet na academia.
-- **MarketCart:** Lista de compras compartilhada com sincronização em tempo real via Cloudflare KV.
-- **WikiDay:** Widgets interativos para Android com citações e fatos históricos diários.
-
-</details>
-
----
-
-### 📊 Métricas &amp; Atividade no GitHub
+### 📊 GitHub Metrics & Activity
 
 <p align="center">
   <a href="https://github.com/otaviodario?tab=repositories">
@@ -115,12 +87,17 @@ Software Engineer & Criador focado em **Android Nativo de Alta Performance (Kotl
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/otaviodario">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/otaviodario">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
-  </a>
-</p>
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 6px;">
+      <a href="https://github.com/otaviodario">
+        <img src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&card_width=420&line_height=28&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 6px;">
+      <a href="https://github.com/otaviodario">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=4&card_width=420&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
