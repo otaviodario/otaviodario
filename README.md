@@ -96,12 +96,12 @@ Software Engineer & Indie Creator specialized in **High-Performance Native Andro
   <tr style="border: none; background: transparent;">
     <td align="center" valign="middle" style="border: none; background: transparent; padding: 4px;">
       <a href="#github-metrics--activity">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=26&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
+        <img height="195" src="https://github-stats-extended.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&line_height=26&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle" style="border: none; background: transparent; padding: 4px;">
       <a href="#github-metrics--activity">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviodario&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
+        <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=otaviodario&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc" alt="Top Languages" />
       </a>
     </td>
   </tr>
