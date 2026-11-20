@@ -7,7 +7,7 @@
 
   <!-- TERMINAL AUTO-TYPING (LINKS TO STUDIO) -->
   <a href="https://dariodevlabs.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Indie+Creator;Founder+at+Dario+Dev+Labs;Android+Native+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Indie+Creator;Founder+at+Dario+Dev+Labs;Android+Native+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+%26+WikiDay" alt="Typing SVG" />
   </a>
 
   <!-- WOLF GIF BANNER (LOCKED TO PAGE) -->
