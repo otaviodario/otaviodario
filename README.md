@@ -1,13 +1,9 @@
+<!-- DDL:TOP_START -->
 <div align="center">
 
   <!-- ANIMATED HEADER BANNER -->
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Otávio%20Dario&fontSize=42&fontColor=38bdf8&animation=twinkling" width="100%" alt="Header" />
-  </a>
-
-  <!-- TERMINAL AUTO-TYPING (LINKS TO STUDIO) -->
-  <a href="https://dariodevlabs.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Indie+Creator;Founder+at+Dario+Dev+Labs;Android+Native+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+%26+WikiDay" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=Otávio%20Dario&fontSize=42&fontColor=38bdf8&animation=twinkling" width="100%" alt="Otávio Dario" />
   </a>
 
   <!-- WOLF GIF BANNER (LOCKED TO PAGE) -->
@@ -20,13 +16,116 @@
   <!-- OFFICIAL EXTERNAL LINKS (CLICKABLE) -->
   <p>
     <a href="https://dariodevlabs.pages.dev/">
-      <img src="https://img.shields.io/badge/Studio-Dario%20Dev%20Labs-0284c7?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Studio" />
+      <img src="https://img.shields.io/badge/Portfolio-Dario%20Dev%20Labs-0284c7?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Dario Dev Labs" />
     </a>
     <a href="https://www.linkedin.com/in/otaviodario/">
       <img src="https://img.shields.io/badge/LinkedIn-Otávio%20Dario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
+</div>
+<!-- DDL:TOP_END -->
+
+<details>
+<summary>🇧🇷 <strong>Português</strong></summary>
+
+<!-- DDL:PT_START -->
+
+<div align="center">
+  <a href="https://dariodevlabs.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software+%26+Criador+Independente;Fundador+da+Dario+Dev+Labs;Android+Nativo+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Texto animado" />
+  </a>
+</div>
+
+---
+
+## ⚡ Sobre Mim & Arquitetura
+
+Engenheiro de Software e Criador Independente, especializado em **Android Nativo de Alta Performance (Kotlin)**, **Edge Computing (Cloudflare Workers, KV, Pages)** e sistemas de automação. Fundador da **Dario Dev Labs**.
+
+---
+
+### 🚀 Ecossistema de Produtos • Google Play
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="#ecossistema-de-produtos--google-play"><img src="https://img.shields.io/badge/Daikai-Treino%20Local--First-blue?style=for-the-badge&logo=googleplay&logoColor=white" alt="Daikai" /></a><br><br>
+      <strong>Treino &amp; Sobrecarga Progressiva</strong><br>
+      Motor <em>Local-First</em> 100% autônomo (zero dependência de rede na academia), cofre de autenticação criptografado no aparelho, cálculo de métricas e backup assíncrono na nuvem.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#ecossistema-de-produtos--google-play"><img src="https://img.shields.io/badge/MarketCart-Cloudflare%20KV-emerald?style=for-the-badge&logo=cloudflare&logoColor=white" alt="MarketCart" /></a><br><br>
+      <strong>Compras Colaborativas em Tempo Real</strong><br>
+      Sincronização multiusuário com <strong>Cloudflare Workers + KV</strong>: permite que várias pessoas marquem e adicionem itens na mesma lista de compras ao mesmo tempo.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="#ecossistema-de-produtos--google-play"><img src="https://img.shields.io/badge/WikiDay-Widgets%20%26%20Datas-purple?style=for-the-badge&logo=android&logoColor=white" alt="WikiDay" /></a><br><br>
+      <strong>Comemorações &amp; Frases</strong><br>
+      Comemorações globais diárias e frases categorizadas. Desenvolvido como um <strong>Widget interativo de tela inicial</strong> com tema de cores dinâmico.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Stack Tecnológico & Arquitetura
+
+<div align="center">
+  <a href="#stack-tecnológico--arquitetura">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cloudflare,workers,js,ts,html,css,tailwind,git,github&theme=dark" alt="Stack Tecnológico" />
+  </a>
+</div>
+
+<br>
+
+> 📱 **Mobile:** Android Nativo (Kotlin, App Widgets, WebViewAssetLoader, Arquitetura Local-First)  
+> ☁️ **Nuvem &amp; Edge:** Cloudflare Workers, KV em tempo real, R2 Storage, Cloudflare Pages  
+> ⚡ **Automações:** JavaScript/TypeScript, Userscripts Tampermonkey, Web Scraping  
+> 🔒 **Segurança &amp; Persistência:** SHA-256 (Web Crypto API), IndexedDB, LocalStorage seguro  
+
+---
+
+### 📊 Métricas & Atividade no GitHub
+
+<p align="center">
+  <a href="#métricas--atividade-no-github">
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20P%C3%BAblicos-13-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
+  </a>
+  &nbsp;
+  <a href="#métricas--atividade-no-github">
+    <img src="https://img.shields.io/badge/Perfil-Desenvolvedor%20Ativo-38bdf8?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  </a>
+</p>
+
+<table align="center" border="0" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 4px;">
+      <a href="#métricas--atividade-no-github">
+        <img height="195" src="https://github-stats-extended.vercel.app/api?username=otaviodario&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&line_height=26&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=f0f6fc&locale=pt-br" alt="Estatísticas do GitHub" />
+      </a>
+    </td>
+    <td align="center" valign="middle" style="border: none; background: transparent; padding: 4px;">
+      <a href="#métricas--atividade-no-github">
+        <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=otaviodario&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=f0f6fc&locale=pt-br" alt="Linguagens Mais Usadas" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- DDL:PT_END -->
+
+</details>
+
+<details open>
+<summary>🇺🇸 <strong>English</strong></summary>
+
+<!-- DDL:EN_START -->
+
+<div align="center">
+  <a href="https://dariodevlabs.pages.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineer+%26+Indie+Creator;Founder+at+Dario+Dev+Labs;Android+Native+%2B+Cloudflare+Edge;Daikai%2C+MarketCart+KV+%26+WikiDay+Widgets" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -80,7 +179,6 @@ Software Engineer & Indie Creator specialized in **High-Performance Native Andro
 
 ### 📊 GitHub Metrics & Activity
 
-<!-- STATUS BADGES LOCKED TO ANCHOR -->
 <p align="center">
   <a href="#github-metrics--activity">
     <img src="https://img.shields.io/badge/Public%20Repositories-13-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
@@ -91,7 +189,6 @@ Software Engineer & Indie Creator specialized in **High-Performance Native Andro
   </a>
 </p>
 
-<!-- SYMMETRICAL NON-NAVIGATING STAT CARDS -->
 <table align="center" border="0" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
     <td align="center" valign="middle" style="border: none; background: transparent; padding: 4px;">
@@ -106,3 +203,7 @@ Software Engineer & Indie Creator specialized in **High-Performance Native Andro
     </td>
   </tr>
 </table>
+
+<!-- DDL:EN_END -->
+
+</details>
